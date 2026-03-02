@@ -32,12 +32,27 @@ Day 3 focused on advanced data categorization and interpretation.
     * Age Groups
 * **Outcome:** Used Pivot Tables to answer specific business questions, such as identifying which markets were most active in particular countries.
 
+  
+## Day 4
+
+On **Day 4**, we learned how to protect Excel sheets—from locking specific cell ranges to setting up full workbook passwords. This is a critical skill, as data security is vital for staying compliant with **Data Protection Acts**.
+
+Finally, we held a detailed discussion on planning presentations for a **Board of Directors**. We focused on the idea that data analysis is only valuable if it can be explained clearly and persuasively to decision-makers.
+
+> **Key Takeaway:** Analysis is useless unless it can be effectively communicated.
+
 ---
 
-### Visual: Day 2 Data Visualization Logic (IMDb Dataset)
-
-| Film Metric | Excel Tool Applied | Purpose / Interpretation |
-| :--- | :--- | :--- |
-| **Film Rating** | Color Scales (Green to Red) | Instant visual cue of high vs. low quality. |
-| **Number of Votes** | Data Bars | Shows popularity; highlights if a rating is based on a small (unreliable) sample. |
-| **Total Statistics** | `SUM` / `AVERAGE` | Provides the baseline for overall dataset performance. |
+| vote_average | vote_count | Month | Month (num) | Type |
+|:--- |:--- |:--- |:--- |:--- |
+| 8.500 | 38665 | Nov | 11 | Superb |
+| 8.500 | 38665 | Nov | 11 | Superb |
+| 8.400 | 38531 | Jul | 7 | Superb |
+| 8.400 | 38531 | Jul | 7 | Superb |
+| 7.914 | 35253 | Apr | 4 | Good |
+| 7.914 | 35253 | Apr | 4 | Good |
+| 8.500 | 35022 | Jul | 7 | Superb |
+| 8.500 | 35022 | Jul | 7 | Superb |
+| 7.600 | 33298 | Dec | 12 | Good |
+| 7.600 | 33298 | Dec | 12 | Good |
+| 7.623 | 32256 | Feb | 2 | Good |
