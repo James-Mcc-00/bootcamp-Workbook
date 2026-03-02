@@ -26,6 +26,10 @@ Day 3 saw us learn about **Power BI**. While similar to Tableau, I quickly reali
 ### Day 4
 Day 4 was the most important as we learnt how to create **online dashboards**. In the modern age, where teams work across different systems, this is vital for ensuring good teamwork.
 
+<img width="1024" height="448" alt="image" src="https://github.com/user-attachments/assets/072b8aab-d96c-4de8-80c5-88b52cc77afc" />
+<img width="1024" height="448" alt="image" src="https://github.com/user-attachments/assets/072b8aab-d96c-4de8-80c5-88b52cc77afc" />
+
+
 ---
 
 ## Conclusion
