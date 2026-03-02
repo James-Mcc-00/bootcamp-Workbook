@@ -57,4 +57,4 @@ We applied our skills to a large-scale dataset, focusing on the "Data Science Pi
 1.  **Data Cleaning:** Handling null values and filtering "dirty" data.
 2.  **
 
-![Visual6.png)
+!(Visual6.png)
