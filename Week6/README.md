@@ -47,7 +47,7 @@ We began working with **Pandas**, the industry-standard library for data sets. I
 * **DataFrames:** Learned to define, index, and slice DataFrames.
 * **Operations:** Practiced advanced data exploration and querying techniques.
 
-
+![A visual showing the a plot](Visual6.png)
 
 ---
 
@@ -57,4 +57,4 @@ We applied our skills to a large-scale dataset, focusing on the "Data Science Pi
 1.  **Data Cleaning:** Handling null values and filtering "dirty" data.
 2.  **
 
-!(Visual6.png)
+
