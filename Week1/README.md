@@ -41,18 +41,4 @@ Finally, we held a detailed discussion on planning presentations for a **Board o
 
 > **Key Takeaway:** Analysis is useless unless it can be effectively communicated.
 
----
-
-| vote_average | vote_count | Month | Month (num) | Type |
-|:--- |:--- |:--- |:--- |:--- |
-| 8.500 | 38665 | Nov | 11 | Superb |
-| 8.500 | 38665 | Nov | 11 | Superb |
-| 8.400 | 38531 | Jul | 7 | Superb |
-| 8.400 | 38531 | Jul | 7 | Superb |
-| 7.914 | 35253 | Apr | 4 | Good |
-| 7.914 | 35253 | Apr | 4 | Good |
-| 8.500 | 35022 | Jul | 7 | Superb |
-| 8.500 | 35022 | Jul | 7 | Superb |
-| 7.600 | 33298 | Dec | 12 | Good |
-| 7.600 | 33298 | Dec | 12 | Good |
-| 7.623 | 32256 | Feb | 2 | Good |
+![My Excel sheet with conditonal formating](Visual1.png)
