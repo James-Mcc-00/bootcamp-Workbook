@@ -54,6 +54,7 @@ The final day focused on the flow of data from ingestion to visualization:
     * **Resilience:** Planning for security and backups.
 
 ![A dashboard we create in powerBI from data we worked on in Azure](Visual5.png)
+![](Visual5b.png)
 
 ---
 
