@@ -14,9 +14,9 @@ Beyond technical proficiency, this program emphasized the **"Analyst Framework"*
 * **Strategic Solving:** Transforming raw data into actionable insights.
 * **Independent Growth:** Equipped with advanced resources to continue scaling these skills in production environments.
 
-![](visual7.png)
-![](visual8.png)
-![](visual9.png)
+![](Visual7.png)
+![](Visual8.png)
+![](Visual9.png)
 
 
 ---
