@@ -4,7 +4,7 @@ Python is one of the most versatile high-level programming languages, widely rec
 
 ---
 
-## 📅 Day 1: Core Fundamentals
+## Day 1: Core Fundamentals
 The first day was dedicated to the building blocks of Python syntax and best practices.
 
 ### Basic Skills & Syntax
@@ -26,7 +26,7 @@ We familiarized ourselves with **PEP 8**, the official Python style guide, to en
 
 ---
 
-## 🔄 Day 2: Control Flow
+##  Day 2: Control Flow
 Day two shifted focus to shortcut operators and conditional logic.
 
 ### Conditional Statements
